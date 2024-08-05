@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.db-main-bg {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.dashboard-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 200px;
+}
